@@ -30,4 +30,8 @@ A personal website showcasing my technical skills, projects, internship experien
 
 ### 📫 Connect With Me
 
-- LinkedIn: https://www.linked.com/in/abi--r
+- LinkedIn: [https://www.linkedin.com/in/abi--r](https://www.linkedin.com/in/abi--r)
+
+### 🌐 Portfolio
+
+[View My Portfolio](https://abi-020805.github.io/Personal-Portfolio/)
