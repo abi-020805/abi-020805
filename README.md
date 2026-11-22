@@ -11,15 +11,17 @@ I'm interested in software development, database management, and building practi
 - **Database:** SQL, Oracle, MySQL, PostgreSQL
 - **Tools:** Git, GitHub, VS Code, Figma, Postman
 
-### 🚀 Projects
+## 🚀 Projects
 
 ### 1. MediTrack – Healthcare Database Management System
 An Oracle SQL-based project for managing patient records, doctors, departments, and appointments.
 
 [View Repository](https://github.com/abi-020805/MediTrack)
 
-### 2. Universal Atlas Prompting (UAP)
-Final-year research project on automatic view positioning in 3D Cardiac CT.
+### 2. Personal Portfolio Website
+A personal website showcasing my technical skills, projects, internship experience, and professional background, built using HTML and CSS.
+
+[View Repository](https://github.com/abi-020805/Personal-Portfolio)
 
 ### 🎓 Internships
 
