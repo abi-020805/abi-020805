@@ -13,8 +13,13 @@ I'm interested in software development, database management, and building practi
 
 ### 🚀 Projects
 
-- **MediTrack** – Healthcare Database Management System using Oracle SQL.
-- **Universal Atlas Prompting (UAP)** – Final-year research project on automatic view positioning in 3D Cardiac CT.
+### 1. MediTrack – Healthcare Database Management System
+An Oracle SQL-based project for managing patient records, doctors, departments, and appointments.
+
+[View Repository](https://github.com/abi-020805/MediTrack)
+
+### 2. Universal Atlas Prompting (UAP)
+Final-year research project on automatic view positioning in 3D Cardiac CT.
 
 ### 🎓 Internships
 
